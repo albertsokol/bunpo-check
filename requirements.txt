@@ -1,0 +1,8 @@
+numpy~=1.19.5
+transformers~=4.1.1
+fugashi~=1.0.5
+ipadic~=1.0.0
+mecab-python3~=1.0.3
+torch~=1.7.1
+unidic~=1.0.3
+wasabi~=0.8.0
