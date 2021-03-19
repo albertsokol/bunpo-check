@@ -11,7 +11,7 @@ Hi! Here you can find the trained models for [bunpo-check.com](https://bunpo-che
  - Functions for interpreting output 
  
 ### Requirements
-Will add soon! 
+See requirements.txt 
 
 ## permut8r 
 This is a permutation library I wrote for creating random permutations of correct strings, for use as pre-training data.
