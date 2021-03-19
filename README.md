@@ -45,7 +45,7 @@ Will upload soon!
 ## Trained models 
 To use the trained model, you will need to use the Huggingface transformers library.
 
-Step 1: download the model from [my Google drive](https://drive.google.com/drive/folders/1ur4GZV_E_Is4ehhNwLv4w2p02IC_ZnWa?usp=sharing) and save it to your working directory. 
+Step 1: download the model from [my Google drive](https://drive.google.com/drive/folders/1ur4GZV_E_Is4ehhNwLv4w2p02IC_ZnWa?usp=sharing) and save the folder to your working directory. 
 
 Step 2: run check.py to check your sentence.
 
